@@ -12,7 +12,5 @@ hello ayguigu! hello git!
 hello ayguigu! hello git!
 hello ayguigu! hello git!
 hello ayguigu! hello git!
-=======
 master
->>>>>>> hot-fix
 hot fix
