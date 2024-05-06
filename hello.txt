@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 hello ayguigu! hello git!
 master
-=======
-
 hello ayguigu! hello git!22222
 hello ayguigu! hello git!33333
 hello ayguigu! hello git!
 hello ayguigu! hello git!
 hot fix 
-hot fix
->>>>>>> hot-fix
 hot fix
